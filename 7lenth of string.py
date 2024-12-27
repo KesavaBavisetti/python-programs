@@ -9,3 +9,4 @@ print(length)
 name = input("")
 greeting = input ("")
 print( greeting + "," + name "!")
+#adding two strings
