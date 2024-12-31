@@ -8,7 +8,7 @@
 #6 less than or equal to (<=)
 
 a = 7
-b = 2-9
+b = 2-9 #-7
 
 print (a == b)
 print (a != b)
@@ -20,7 +20,7 @@ print (a <= b)
 #another example
 
 a = 7
-b = 9-2
+b = 9-2 #+7
 
 print (a == b)
 print (a != b)
