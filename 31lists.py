@@ -3,13 +3,14 @@
 #list items are represented in square brackets [] seperated by comma ,
 
 #Examples
+
 #Creating a list of numbers
 numbers = [1, 2, 3, 4, 5]
 
 #Creating a list of strings
 fruits = ["apple", "banana", "orange"]
 
-# Creating a mixed-type list
+#Creating a mixed-type list
 mixed_list = [1, "apple", True, 3.14]
 
 #Accessing Elements
@@ -23,6 +24,7 @@ print(fruits[2])  # Output: "orange"
 #Modifying Elements
 
 #Examples
+
 # Modifying elements in a list
 fruits = ["apple", "banana", "orange"]
 fruits[1] = "grape"
@@ -41,7 +43,7 @@ print(result)  # Output: [1, 2, 3, 4, 5, 6]
 repeated_list = list1 * 3
 print(repeated_list)  # Output: [1, 2, 3, 1, 2, 3, 1, 2, 3]
 
-#List Methods:-
+#List Methods
 #Example: List methods
 fruits = ["apple", "banana", "orange"]
 
