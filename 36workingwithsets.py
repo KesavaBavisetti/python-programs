@@ -13,8 +13,8 @@ print(intersection_set)  #Output: {3, 4}
 #Difference between two sets
 difference_set = set1.difference(set2)
 print(difference_set)  #Output: {1, 2}
-#Symmetric Difference (elements in either set, but not in both)
 
+#Symmetric Difference (elements in either set, but not in both)
 symmetric_difference_set = set1.symmetric_difference(set2)
 print(symmetric_difference_set)  #Output: {1, 2, 5, 6}
 
